@@ -1,0 +1,77 @@
+
+<body style="background-color:powderblue;"></body>
+
+p {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+h1, h2 {
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.special { 
+    color: rgb(226, 223, 43);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 47, 255);
+    }
+
+.speciall { 
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 230, 0);
+    border: 1px solid rgb(0, 47, 255);    
+    }
+
+.specialll { 
+   color: rgb(0, 0, 0);
+   background-color: rgb(0, 60, 255);
+   border: 1px solid rgb(255, 251, 0);    
+   }
+
+.speciallll { 
+   color: rgb(0, 68, 255);
+   background-color: rgb(0, 0, 0);
+   border: 1px solid rgb(255, 238, 0);    
+    }
+
+.speciak { 
+    color: blue;
+    background-color: yellow;
+    border: 2px solid black;
+    }
+
+.speciakl {
+    color: rgb(255, 230, 0);
+    background-color: rgb(0, 60, 255);
+    border: 1px solid rgb(0, 0, 0);    
+    }
+   
+
+
+.box {
+    margin: 90px;
+    width: 160px;
+    height: 160px;
+    background-color: rebeccapurple;
+    transform: rotate(1.4turn);
+  }
+
+    
+
+a:link {
+    color: rgb(192, 255, 211);
+}
+      
+a:visited {
+    color: rgb(255, 255, 255);
+}
+    
+a:hover {
+    text-decoration: underline overline;
+}
+
+
+
+   
